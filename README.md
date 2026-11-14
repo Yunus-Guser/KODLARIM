@@ -1,4 +1,4 @@
 # TUTORİAL
  Visual Studio ile Python Aracılığıyla 
 Geliştirilmiştir
-# Bu Depodaki Çalışmalar Tarafımca Deneysel Projeler Olarak Üretilip Bir Geliştirme Aşaması Bulunması Söz Konusu Değildir
+# Bu Depodaki Çalışmalar Tarafımca Deneysel Projeler Olarak Üretilmekte Olup Bir Geliştirme Aşamasında Bulunması Söz Konusu Değildir
